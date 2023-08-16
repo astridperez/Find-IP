@@ -1,14 +1,3 @@
-'''
-PROYECTO INTEGRADOR
-Gilberto Hernández Quintero 
-Guillermo González González 
-Odette Estefanía Almaguer Domínguez 
-Astrid Sofía Pérez Aguirre
-José Alberto Aguilar García 
-Juan Claudio Fernández Torres 
-Roberto Darío Ruiz Pacheco
-'''
-
 import pymysql
 
 def conexionsql(dispositivos_lista):
