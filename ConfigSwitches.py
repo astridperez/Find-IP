@@ -1,14 +1,3 @@
-'''
-PROYECTO INTEGRADOR
-Gilberto Hernández Quintero 
-Guillermo González González 
-Odette Estefanía Almaguer Domínguez 
-Astrid Sofía Pérez Aguirre
-José Alberto Aguilar García 
-Juan Claudio Fernández Torres 
-Roberto Darío Ruiz Pacheco
-'''
-
 from netmiko import *
 
 dispsips = ['10.0.1.4', '10.0.1.5', '10.0.1.6', '10.0.1.7']
