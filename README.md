@@ -19,6 +19,10 @@ As part of a collaborative team, I undertook a project to design and develop a P
 - matplotlib
 - netmiko
 
+## Screenshots
+![login](https://github.com/astridperez/Find-IP/assets/101608353/f71236cb-2510-4bd3-8253-6fd23ea96bec)
+
+
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/astridperez/Find-IP`
