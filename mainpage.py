@@ -1,12 +1,8 @@
 '''
-PROYECTO INTEGRADOR
+Astrid Sofía Pérez Aguirre
 Gilberto Hernández Quintero 
 Guillermo González González 
 Odette Estefanía Almaguer Domínguez 
-Astrid Sofía Pérez Aguirre
-José Alberto Aguilar García 
-Juan Claudio Fernández Torres 
-Roberto Darío Ruiz Pacheco
 '''
 
 from tkinter import *
